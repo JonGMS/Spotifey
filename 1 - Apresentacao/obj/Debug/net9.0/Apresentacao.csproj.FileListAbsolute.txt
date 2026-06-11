@@ -1,0 +1,5 @@
+C:\workplace\Projeto_Integrador\ProjetoGitHub\Spotifey\1 - Apresentacao\obj\Debug\net9.0\Apresentacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\workplace\Projeto_Integrador\ProjetoGitHub\Spotifey\1 - Apresentacao\obj\Debug\net9.0\Apresentacao.AssemblyInfoInputs.cache
+C:\workplace\Projeto_Integrador\ProjetoGitHub\Spotifey\1 - Apresentacao\obj\Debug\net9.0\Apresentacao.AssemblyInfo.cs
+C:\workplace\Projeto_Integrador\ProjetoGitHub\Spotifey\1 - Apresentacao\obj\Debug\net9.0\Apresentacao.csproj.CoreCompileInputs.cache
+C:\workplace\Projeto_Integrador\ProjetoGitHub\Spotifey\1 - Apresentacao\obj\Debug\net9.0\Apresentacao.sourcelink.json
