@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\joaog\\OneDrive\\Área de Trabalho\\PROJETOS\\Sputfey\\workplace\\4 - Infra\\Infra.csproj": {}
+    "C:\\Users\\joaog\\OneDrive\\Área de Trabalho\\PROJETOS\\Sputfey\\workplace\\4 - Infra\\Infra.csproj": {}
   },
   "projects": {
-    "c:\\Users\\joaog\\OneDrive\\Área de Trabalho\\PROJETOS\\Sputfey\\workplace\\3 - Dominio\\Dominio.csproj": {
+    "C:\\Users\\joaog\\OneDrive\\Área de Trabalho\\PROJETOS\\Sputfey\\workplace\\3 - Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\joaog\\OneDrive\\Área de Trabalho\\PROJETOS\\Sputfey\\workplace\\3 - Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\joaog\\OneDrive\\Área de Trabalho\\PROJETOS\\Sputfey\\workplace\\3 - Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "c:\\Users\\joaog\\OneDrive\\Área de Trabalho\\PROJETOS\\Sputfey\\workplace\\3 - Dominio\\Dominio.csproj",
+        "projectPath": "C:\\Users\\joaog\\OneDrive\\Área de Trabalho\\PROJETOS\\Sputfey\\workplace\\3 - Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\joaog\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\joaog\\OneDrive\\Área de Trabalho\\PROJETOS\\Sputfey\\workplace\\3 - Dominio\\obj\\",
+        "outputPath": "C:\\Users\\joaog\\OneDrive\\Área de Trabalho\\PROJETOS\\Sputfey\\workplace\\3 - Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joaog\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -66,14 +66,14 @@
         }
       }
     },
-    "c:\\Users\\joaog\\OneDrive\\Área de Trabalho\\PROJETOS\\Sputfey\\workplace\\4 - Infra\\Infra.csproj": {
+    "C:\\Users\\joaog\\OneDrive\\Área de Trabalho\\PROJETOS\\Sputfey\\workplace\\4 - Infra\\Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\joaog\\OneDrive\\Área de Trabalho\\PROJETOS\\Sputfey\\workplace\\4 - Infra\\Infra.csproj",
+        "projectUniqueName": "C:\\Users\\joaog\\OneDrive\\Área de Trabalho\\PROJETOS\\Sputfey\\workplace\\4 - Infra\\Infra.csproj",
         "projectName": "Infra",
-        "projectPath": "c:\\Users\\joaog\\OneDrive\\Área de Trabalho\\PROJETOS\\Sputfey\\workplace\\4 - Infra\\Infra.csproj",
+        "projectPath": "C:\\Users\\joaog\\OneDrive\\Área de Trabalho\\PROJETOS\\Sputfey\\workplace\\4 - Infra\\Infra.csproj",
         "packagesPath": "C:\\Users\\joaog\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\joaog\\OneDrive\\Área de Trabalho\\PROJETOS\\Sputfey\\workplace\\4 - Infra\\obj\\",
+        "outputPath": "C:\\Users\\joaog\\OneDrive\\Área de Trabalho\\PROJETOS\\Sputfey\\workplace\\4 - Infra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joaog\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -91,8 +91,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "c:\\Users\\joaog\\OneDrive\\Área de Trabalho\\PROJETOS\\Sputfey\\workplace\\3 - Dominio\\Dominio.csproj": {
-                "projectPath": "c:\\Users\\joaog\\OneDrive\\Área de Trabalho\\PROJETOS\\Sputfey\\workplace\\3 - Dominio\\Dominio.csproj"
+              "C:\\Users\\joaog\\OneDrive\\Área de Trabalho\\PROJETOS\\Sputfey\\workplace\\3 - Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\joaog\\OneDrive\\Área de Trabalho\\PROJETOS\\Sputfey\\workplace\\3 - Dominio\\Dominio.csproj"
               }
             }
           }
