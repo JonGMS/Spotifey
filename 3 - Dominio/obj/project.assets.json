@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\joaog\\OneDrive\\Área de Trabalho\\PROJETOS\\Sputfey\\workplace\\3 - Dominio\\Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\joaog\\OneDrive\\Área de Trabalho\\PROJETOS\\Sputfey\\workplace\\3 - Dominio\\Dominio.csproj",
       "projectName": "Dominio",
-      "projectPath": "c:\\Users\\joaog\\OneDrive\\Área de Trabalho\\PROJETOS\\Sputfey\\workplace\\3 - Dominio\\Dominio.csproj",
+      "projectPath": "C:\\Users\\joaog\\OneDrive\\Área de Trabalho\\PROJETOS\\Sputfey\\workplace\\3 - Dominio\\Dominio.csproj",
       "packagesPath": "C:\\Users\\joaog\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\joaog\\OneDrive\\Área de Trabalho\\PROJETOS\\Sputfey\\workplace\\3 - Dominio\\obj\\",
+      "outputPath": "C:\\Users\\joaog\\OneDrive\\Área de Trabalho\\PROJETOS\\Sputfey\\workplace\\3 - Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joaog\\AppData\\Roaming\\NuGet\\NuGet.Config",

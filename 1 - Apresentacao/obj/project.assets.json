@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net9.0": {
+      "Aplicacao/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Dominio": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Aplicacao.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Aplicacao.dll": {}
+        }
+      },
+      "Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dominio.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Aplicacao/1.0.0": {
+      "type": "project",
+      "path": "../2 - Aplicacao/Aplicacao.csproj",
+      "msbuildProject": "../2 - Aplicacao/Aplicacao.csproj"
+    },
+    "Dominio/1.0.0": {
+      "type": "project",
+      "path": "../3 - Dominio/Dominio.csproj",
+      "msbuildProject": "../3 - Dominio/Dominio.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net9.0": [
+      "Aplicacao >= 1.0.0",
+      "Dominio >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\joaog\\.nuget\\packages\\": {}
@@ -34,7 +72,14 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "c:\\Users\\joaog\\OneDrive\\Área de Trabalho\\PROJETOS\\Sputfey\\workplace\\2 - Aplicacao\\Aplicacao.csproj": {
+              "projectPath": "c:\\Users\\joaog\\OneDrive\\Área de Trabalho\\PROJETOS\\Sputfey\\workplace\\2 - Aplicacao\\Aplicacao.csproj"
+            },
+            "C:\\Users\\joaog\\OneDrive\\Área de Trabalho\\PROJETOS\\Sputfey\\workplace\\3 - Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\Users\\joaog\\OneDrive\\Área de Trabalho\\PROJETOS\\Sputfey\\workplace\\3 - Dominio\\Dominio.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,6 +1,12 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
+  <ItemGroup>
+    <ProjectReference Include="..\3 - Dominio\Dominio.csproj" />
+    <ProjectReference Include="..\2 - Aplicacao\Aplicacao.csproj" />
+  </ItemGroup>
+
   <PropertyGroup>
+    <LangVersion>preview</LangVersion>
     <OutputType>Exe</OutputType>
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
