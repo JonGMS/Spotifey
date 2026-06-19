@@ -1,0 +1,15 @@
+public class Usuario : EntidadeBase<Usuario>
+{
+    public string Username {get; init;}
+    public string Password {get; set;}
+    public Usuario()
+    {
+        
+    }
+    public Usuario(string username, string password)
+    {
+        Username = username;
+        Password = password;
+    }
+    
+}

@@ -1,13 +1,20 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
+using System.Reflection.Metadata;
 using System.Security.Authentication.ExtendedProtection;
+bool service = false;
+do
+{
+    while (!service)
+    {
+        Menu.ApresentarTitulo(" - Tela Inicial");
 
-// string opcao;
-// do
-// {
-//     opcao = Console.ReadLine();
+        service = Menu.Login();
+    }
+
+    Menu.TelaInicial();
 
 
-    Menu.ApresentarTitulo("");
-// }while(opcao == "1" ||)
+
+} while (service);
 
 

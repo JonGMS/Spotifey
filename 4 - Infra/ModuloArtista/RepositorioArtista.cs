@@ -1,5 +1,6 @@
 ﻿namespace Infra;
-//using Dominio;
+using Dominio.ModuloArtista;
+using Dominio;
 
 public class RepositorioArtista : IRepositorioArtista
 {
