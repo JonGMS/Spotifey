@@ -13,3 +13,24 @@ C:\Users\joaog\OneDrive\Área de Trabalho\PROJETOS\Sputfey\workplace\1 - Apresen
 C:\Users\joaog\OneDrive\Área de Trabalho\PROJETOS\Sputfey\workplace\1 - Apresentacao\obj\Debug\net9.0\Apresentacao.pdb
 C:\Users\joaog\OneDrive\Área de Trabalho\PROJETOS\Sputfey\workplace\1 - Apresentacao\obj\Debug\net9.0\Apresentacao.genruntimeconfig.cache
 C:\Users\joaog\OneDrive\Área de Trabalho\PROJETOS\Sputfey\workplace\1 - Apresentacao\obj\Debug\net9.0\ref\Apresentacao.dll
+C:\workplace\Projeto_Integrador\Projeto_Github\Spotifey\1 - Apresentacao\bin\Debug\net9.0\Apresentacao.exe
+C:\workplace\Projeto_Integrador\Projeto_Github\Spotifey\1 - Apresentacao\bin\Debug\net9.0\Apresentacao.deps.json
+C:\workplace\Projeto_Integrador\Projeto_Github\Spotifey\1 - Apresentacao\bin\Debug\net9.0\Apresentacao.runtimeconfig.json
+C:\workplace\Projeto_Integrador\Projeto_Github\Spotifey\1 - Apresentacao\bin\Debug\net9.0\Apresentacao.dll
+C:\workplace\Projeto_Integrador\Projeto_Github\Spotifey\1 - Apresentacao\bin\Debug\net9.0\Apresentacao.pdb
+C:\workplace\Projeto_Integrador\Projeto_Github\Spotifey\1 - Apresentacao\bin\Debug\net9.0\Aplicacao.dll
+C:\workplace\Projeto_Integrador\Projeto_Github\Spotifey\1 - Apresentacao\bin\Debug\net9.0\Dominio.dll
+C:\workplace\Projeto_Integrador\Projeto_Github\Spotifey\1 - Apresentacao\bin\Debug\net9.0\Dominio.pdb
+C:\workplace\Projeto_Integrador\Projeto_Github\Spotifey\1 - Apresentacao\bin\Debug\net9.0\Aplicacao.pdb
+C:\workplace\Projeto_Integrador\Projeto_Github\Spotifey\1 - Apresentacao\obj\Debug\net9.0\Apresentacao.csproj.AssemblyReference.cache
+C:\workplace\Projeto_Integrador\Projeto_Github\Spotifey\1 - Apresentacao\obj\Debug\net9.0\Apresentacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\workplace\Projeto_Integrador\Projeto_Github\Spotifey\1 - Apresentacao\obj\Debug\net9.0\Apresentacao.AssemblyInfoInputs.cache
+C:\workplace\Projeto_Integrador\Projeto_Github\Spotifey\1 - Apresentacao\obj\Debug\net9.0\Apresentacao.AssemblyInfo.cs
+C:\workplace\Projeto_Integrador\Projeto_Github\Spotifey\1 - Apresentacao\obj\Debug\net9.0\Apresentacao.csproj.CoreCompileInputs.cache
+C:\workplace\Projeto_Integrador\Projeto_Github\Spotifey\1 - Apresentacao\obj\Debug\net9.0\Apresentacao.sourcelink.json
+C:\workplace\Projeto_Integrador\Projeto_Github\Spotifey\1 - Apresentacao\obj\Debug\net9.0\Apresent.076B8766.Up2Date
+C:\workplace\Projeto_Integrador\Projeto_Github\Spotifey\1 - Apresentacao\obj\Debug\net9.0\Apresentacao.dll
+C:\workplace\Projeto_Integrador\Projeto_Github\Spotifey\1 - Apresentacao\obj\Debug\net9.0\refint\Apresentacao.dll
+C:\workplace\Projeto_Integrador\Projeto_Github\Spotifey\1 - Apresentacao\obj\Debug\net9.0\Apresentacao.pdb
+C:\workplace\Projeto_Integrador\Projeto_Github\Spotifey\1 - Apresentacao\obj\Debug\net9.0\Apresentacao.genruntimeconfig.cache
+C:\workplace\Projeto_Integrador\Projeto_Github\Spotifey\1 - Apresentacao\obj\Debug\net9.0\ref\Apresentacao.dll

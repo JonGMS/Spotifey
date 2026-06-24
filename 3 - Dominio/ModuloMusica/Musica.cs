@@ -3,6 +3,7 @@ using Dominio.Artista;
 
 public class Musica : EntidadeBase<Musica>
 {
+    public int Id_musica {get; set;}
     public string Titulo { get; set; }
     public string Album { get; set; }
     public decimal Duracao { get; set; }

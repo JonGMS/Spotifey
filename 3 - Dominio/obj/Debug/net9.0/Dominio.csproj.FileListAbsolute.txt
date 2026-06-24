@@ -10,3 +10,15 @@ C:\Users\joaog\OneDrive\Área de Trabalho\PROJETOS\Sputfey\workplace\3 - Dominio
 C:\Users\joaog\OneDrive\Área de Trabalho\PROJETOS\Sputfey\workplace\3 - Dominio\obj\Debug\net9.0\refint\Dominio.dll
 C:\Users\joaog\OneDrive\Área de Trabalho\PROJETOS\Sputfey\workplace\3 - Dominio\obj\Debug\net9.0\Dominio.pdb
 C:\Users\joaog\OneDrive\Área de Trabalho\PROJETOS\Sputfey\workplace\3 - Dominio\obj\Debug\net9.0\ref\Dominio.dll
+C:\workplace\Projeto_Integrador\Projeto_Github\Spotifey\3 - Dominio\bin\Debug\net9.0\Dominio.deps.json
+C:\workplace\Projeto_Integrador\Projeto_Github\Spotifey\3 - Dominio\bin\Debug\net9.0\Dominio.dll
+C:\workplace\Projeto_Integrador\Projeto_Github\Spotifey\3 - Dominio\bin\Debug\net9.0\Dominio.pdb
+C:\workplace\Projeto_Integrador\Projeto_Github\Spotifey\3 - Dominio\obj\Debug\net9.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\workplace\Projeto_Integrador\Projeto_Github\Spotifey\3 - Dominio\obj\Debug\net9.0\Dominio.AssemblyInfoInputs.cache
+C:\workplace\Projeto_Integrador\Projeto_Github\Spotifey\3 - Dominio\obj\Debug\net9.0\Dominio.AssemblyInfo.cs
+C:\workplace\Projeto_Integrador\Projeto_Github\Spotifey\3 - Dominio\obj\Debug\net9.0\Dominio.csproj.CoreCompileInputs.cache
+C:\workplace\Projeto_Integrador\Projeto_Github\Spotifey\3 - Dominio\obj\Debug\net9.0\Dominio.sourcelink.json
+C:\workplace\Projeto_Integrador\Projeto_Github\Spotifey\3 - Dominio\obj\Debug\net9.0\Dominio.dll
+C:\workplace\Projeto_Integrador\Projeto_Github\Spotifey\3 - Dominio\obj\Debug\net9.0\refint\Dominio.dll
+C:\workplace\Projeto_Integrador\Projeto_Github\Spotifey\3 - Dominio\obj\Debug\net9.0\Dominio.pdb
+C:\workplace\Projeto_Integrador\Projeto_Github\Spotifey\3 - Dominio\obj\Debug\net9.0\ref\Dominio.dll

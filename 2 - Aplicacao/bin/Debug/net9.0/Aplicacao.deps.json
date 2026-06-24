@@ -6,24 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v9.0": {
-      "Apresentacao/1.0.0": {
-        "dependencies": {
-          "Aplicacao": "1.0.0",
-          "Dominio": "1.0.0"
-        },
-        "runtime": {
-          "Apresentacao.dll": {}
-        }
-      },
       "Aplicacao/1.0.0": {
         "dependencies": {
           "Dominio": "1.0.0"
         },
         "runtime": {
-          "Aplicacao.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Aplicacao.dll": {}
         }
       },
       "Dominio/1.0.0": {
@@ -37,11 +25,6 @@
     }
   },
   "libraries": {
-    "Apresentacao/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "Aplicacao/1.0.0": {
       "type": "project",
       "serviceable": false,
